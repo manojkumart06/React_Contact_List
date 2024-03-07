@@ -1,0 +1,45 @@
+*{
+    font-family: Roboto;
+}
+.contact-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .contact-table th,
+  .contact-table td {
+    padding: 8px;
+    text-align: left;
+    vertical-align: middle; /* Center text vertically */
+  }
+  
+  .contact-table th {
+    font-size: 1.2rem;
+    font-weight: 600;
+    background-color: #f667db;
+    color: white;
+  }
+  
+  .contact-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .contact-table tr:hover {
+    background-image: linear-gradient(-20deg, #ebc0ff 0%, #85e0f5 100%);
+
+  }
+  
+.container .addbtn {
+    background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+    border: 2px solid rgb(8, 241, 59);
+    border-radius: 5px;
+    color: rgb(16, 16, 16);
+    cursor: pointer;
+    font-weight: 1000;
+    font-size: 1.4rem;
+    outline: none;
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 1005px;
+}

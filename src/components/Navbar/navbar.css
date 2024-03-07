@@ -1,0 +1,17 @@
+/* NavBar.css */
+.navbar {
+    background-color: #f8f9fa !important; /* Light grey background, override Bootstrap's bg-light */
+    box-shadow: 0 5px 4px rgba(17, 114, 205, 0.1); /* Add a subtle shadow for depth */
+  }
+  
+  .navbar-brand {
+    font-size: 1.9rem; /* Increase the size of the brand font */
+    font-weight: bold; /* Make the brand name bold */
+    color: #007bff !important; /* Use Bootstrap's primary color */
+    transition: color 0.2s; /* Smooth transition for hover effect */
+  }
+  
+  .navbar-brand:hover {
+    color: #1200b3; /* Darken the brand on hover */
+  }
+  
