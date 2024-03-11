@@ -14,7 +14,7 @@ This is a simple contact management app built with React and Redux. It allows us
 
 ## Live Demo
 
-Check out the live demo [here](#) (replace # with your actual live link).
+Check out the live demo [here](https://contactlistapius.netlify.app/) 
 
 ## Available Scripts
 
